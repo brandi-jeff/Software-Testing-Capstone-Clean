@@ -18,7 +18,7 @@ To introduce bugs without knowing where they were, I provided the three requirem
 
 Honey & Crumb Bakery is a fictional Italian bakery ecommerce site. It includes a homepage, menu, order form, about page, and contact page. The site was purpose-built as a testing environment and is not a real business.
 
-- **Clean Site (this repo):** The verified, post-fix version of the site
+- **Clean Site (this repo):** The verified, post-fix version of the site → [View Buggy Site](https://brandi-jeff.github.io/Software-Testing-Capstone-Clean/index.html)
 - **Buggy Site:** The defect version used during active testing → [View Buggy Site](https://brandi-jeff.github.io/Software-Testing-Capstone-Defects/index.html)
 
 ---
