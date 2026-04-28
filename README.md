@@ -1,4 +1,3 @@
-# Software-Testing-Capstone-Clean
 # Honey & Crumb Bakery — Software Testing Capstone
 
 A full QA testing project built from the ground up as part of an 8-week software testing bootcamp. This repo contains the clean (post-fix) version of the test site along with all testing documentation.
@@ -11,7 +10,7 @@ This capstone required testing an ecommerce site against three defined requireme
 
 Rather than testing an existing live site, I built my own ecommerce site from scratch using HTML, CSS, and JavaScript. This gave me a controlled environment where I could test thoroughly without depending on a third-party site that may already have dedicated QA coverage.
 
-To introduce bugs without knowing where they were, I provided the three requirements to an AI tool and had it modify the code to create defects that aligned with those requirements. This kept the testing unbiased — I had no prior knowledge of where the bugs were or how many there were.
+To introduce bugs without knowing where they were, I provided the three requirements to an AI tool and had it modify the code to create defects that aligned with those requirements. This kept the testing unbiased. I had no prior knowledge of where the bugs were or how many there were.
 
 ---
 
@@ -20,7 +19,7 @@ To introduce bugs without knowing where they were, I provided the three requirem
 Honey & Crumb Bakery is a fictional Italian bakery ecommerce site. It includes a homepage, menu, order form, about page, and contact page. The site was purpose-built as a testing environment and is not a real business.
 
 - **Clean Site (this repo):** The verified, post-fix version of the site
-- **Buggy Site:** The defect version used during active testing → [View Buggy Site](https://kbyeee-getaways.github.io/Software-Testing-Capstone-Defects/index.html)
+- **Buggy Site:** The defect version used during active testing → [View Buggy Site](https://brandi-jeff.github.io/Software-Testing-Capstone-Defects/index.html)
 
 ---
 
@@ -50,7 +49,7 @@ The capstone required a minimum of one bug per requirement. Testing uncovered th
 
 ## The AI Angle
 
-Using AI to introduce the bugs was an intentional decision rooted in testing best practices. A tester should not know where defects are before testing begins. By providing only the requirements and letting AI modify the code, the bugs remained a genuine unknown — making the testing process more realistic and the findings more credible.
+Using AI to introduce the bugs was an intentional decision rooted in testing best practices. A tester should not know where defects are before testing begins. By providing only the requirements and letting AI modify the code, the bugs remained a genuine unknown, making the testing process more realistic and the findings more credible.
 
 ---
 
@@ -60,8 +59,8 @@ Using AI to introduce the bugs was an intentional decision rooted in testing bes
 |---|---|
 | Test Plan | [View Test Plan](https://docs.google.com/document/d/1WrDE1idM1QkvefAK7Jqnd3m2hO9nyYTS7y5-YBqbIGE/edit?usp=sharing) |
 | Test Cases | [View Test Cases](https://docs.google.com/spreadsheets/d/1RqCAwIx8auJTo6aOR72KQpZpyFlJHM23kgWbukvUpNQ/edit?usp=sharing) |
-| Buggy Site | [View Buggy Site](https://brandi-jeff.github.io//Software-Testing-Capstone-Defects/index.html) |
-| Clean Site (Live) | [View Clean Site](https://brandi-jeff.github.io//Software-Testing-Capstone-Clean/index.html) |
+| Buggy Site | [View Buggy Site](https://brandi-jeff.github.io/Software-Testing-Capstone-Defects/index.html) |
+| Clean Site (Live) | [View Clean Site](https://brandi-jeff.github.io/Software-Testing-Capstone-Clean/index.html) |
 
 ---
 
@@ -83,5 +82,5 @@ The buggy site is publicly available and intentionally left in its defective sta
 
 ---
 
-*Capstone completed as part of the Tek's software testing cohort, April 2026.*
+*Capstone completed as part of the Zuri Solutions's Software Testing Cohort, April 2026.*
 
