@@ -1,4 +1,3 @@
-# Software-Testing-Capstone-Clean
 # Honey & Crumb Bakery — Software Testing Capstone
 
 A full QA testing project built from the ground up as part of an 8-week software testing bootcamp. This repo contains the clean (post-fix) version of the test site along with all testing documentation.
